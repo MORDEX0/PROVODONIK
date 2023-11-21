@@ -1,0 +1,14 @@
+C:\Users\24070\source\repos\provo\provo\bin\Debug\net7.0\provo.exe
+C:\Users\24070\source\repos\provo\provo\bin\Debug\net7.0\provo.deps.json
+C:\Users\24070\source\repos\provo\provo\bin\Debug\net7.0\provo.runtimeconfig.json
+C:\Users\24070\source\repos\provo\provo\bin\Debug\net7.0\provo.dll
+C:\Users\24070\source\repos\provo\provo\bin\Debug\net7.0\provo.pdb
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\provo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\provo.AssemblyInfoInputs.cache
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\provo.AssemblyInfo.cs
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\provo.csproj.CoreCompileInputs.cache
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\provo.dll
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\refint\provo.dll
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\provo.pdb
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\provo.genruntimeconfig.cache
+C:\Users\24070\source\repos\provo\provo\obj\Debug\net7.0\ref\provo.dll
